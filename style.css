@@ -48,3 +48,12 @@
 .row{
     display: table;
 }
+
+.about{
+    background-color: blue;
+    color: white;
+    height: 20px;
+    width: 260px;
+    padding: 10px;
+    margin: 2px;
+}
