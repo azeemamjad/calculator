@@ -1,0 +1,50 @@
+.button_1{
+    animation: reverse;
+    height: 50px;
+    width: 50px;
+    background-color: aqua;
+    border-radius: 20%;
+    padding: 10px;
+    margin: 10px;
+    font-size: large;
+    
+}
+
+.button_2{
+    animation: reverse;
+    height: 50px;
+    width: 50px;
+    background-color: aquamarine;
+    border-radius: 20%;
+    padding: 10px;
+    margin: 10px;
+    font-size: smaller;
+    
+}
+
+.screen{
+    height: 50px;
+    width: 240px;
+    background-color: gainsboro;
+    padding: 10px;
+    margin: 10px;
+    font-size: x-large;
+    text-align: right;
+    overflow: scroll;
+    
+}
+#screen_1{
+    height: 30px;
+    max-height: 30px;
+    width: fit-content;
+}
+
+.body_1{
+    height: fit-content;
+    width: fit-content;
+    border: double 2px black;
+}
+
+.row{
+    display: table;
+}
